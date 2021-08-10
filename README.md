@@ -4,7 +4,7 @@ A basic calculator application created with Python3.
 Please ⭐️ this and share it with others
 
 ### Screenshots
-:------------------:
+
 ![image](https://user-images.githubusercontent.com/56852060/128908610-24832729-e380-41db-ac8f-06e70a526d80.png)
 
 
